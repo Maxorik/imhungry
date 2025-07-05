@@ -1,0 +1,95 @@
+{
+	"products": [{
+		"id": "bread",
+		"name": "хлеб",
+		"icon": ""
+	},{
+		"id": "cheese",
+		"name": "сыр",
+		"icon": ""
+	},{
+		"id": "cheese2",
+		"name": "творожный сыр",
+		"icon": ""
+	},{
+		"id": "meat",
+		"name": "индейка",
+		"icon": ""
+	},{
+		"id": "cucumber",
+		"name": "огурцы",
+		"icon": ""
+	},{
+		"id": "eags",
+		"name": "яйца",
+		"icon": ""
+	},{
+		"id": "coffee",
+		"name": "кофе",
+		"icon": ""
+	},{
+		"id": "tea",
+		"name": "чай",
+		"icon": ""
+	},{
+		"id": "limon",
+		"name": "лимон",
+		"icon": ""
+	},{
+		"id": "sugar",
+		"name": "сахар",
+		"icon": ""
+	},{
+		"id": "milk",
+		"name": "молоко",
+		"icon": ""
+	},{
+		"id": "yogurt",
+		"name": "йогурт",
+		"icon": ""
+	},{
+		"id": "banana",
+		"name": "бананы",
+		"icon": ""
+	},{
+		"id": "fruit",
+		"name": "фрукты",
+		"icon": ""
+	},{
+		"id": "curd",
+		"name": "творог",
+		"icon": ""
+	},{
+		"id": "chicken",
+		"name": "курица",
+		"icon": ""
+	},{
+		"id": "beans",
+		"name": "фасоль",
+		"icon": ""
+	},{
+		"id": "rice",
+		"name": "рис",
+		"icon": ""
+	},{
+		"id": "buckwheat",
+		"name": "гречка",
+		"icon": ""
+	},{
+		"id": "pasta",
+		"name": "макароны",
+		"icon": ""
+	},{
+		"id": "vegetables",
+		"name": "овощи",
+		"icon": ""
+	},{
+		"id": "seeds",
+		"name": "семечки",
+		"icon": ""
+	}, {
+		"id": "cookie",
+		"name": "печенье",
+		"icon": ""
+	}]
+}
