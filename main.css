@@ -9,7 +9,7 @@
 }
 #product-list {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: auto;
     gap: 8px;
     padding: 6px;
@@ -41,4 +41,11 @@
     border-radius: 50%;
     background: #494949 url(./sprites.png) no-repeat -6px -710px;
     margin: 47px 0 0 77px;
+}
+
+@media only screen {
+    .product-card {
+        -webkit-text-stroke: 0 transparent;
+        text-shadow: 1px 0 black, 0 1px black, -1px 0 black, 0 -1px black;
+    }
 }
