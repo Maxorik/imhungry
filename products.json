@@ -2,94 +2,94 @@
 	"products": [{
 		"id": "bread",
 		"name": "хлеб",
-		"icon": ""
+		"icon": "0 5px"
 	},{
 		"id": "cheese",
 		"name": "сыр",
-		"icon": ""
+		"icon": "-130px 0"
 	},{
 		"id": "cheese2",
 		"name": "творожный сыр",
-		"icon": ""
+		"icon": "-251.3px 7px"
 	},{
 		"id": "meat",
 		"name": "индейка",
-		"icon": ""
+		"icon": "-388px 0"
 	},{
 		"id": "cucumber",
 		"name": "огурцы",
-		"icon": ""
+		"icon": "-514px 0"
 	},{
 		"id": "eags",
 		"name": "яйца",
-		"icon": ""
+		"icon": "-650px 0"
 	},{
 		"id": "coffee",
 		"name": "кофе",
-		"icon": ""
+		"icon": "-775px 3px"
 	},{
 		"id": "tea",
 		"name": "чай",
-		"icon": ""
+		"icon": "-900px 0"
 	},{
 		"id": "limon",
 		"name": "лимон",
-		"icon": ""
+		"icon": "-1030px 10px"
 	},{
 		"id": "sugar",
 		"name": "сахар",
-		"icon": ""
+		"icon": "0 -130px"
 	},{
 		"id": "milk",
 		"name": "молоко",
-		"icon": ""
+		"icon": "-130px -130px"
 	},{
 		"id": "yogurt",
 		"name": "йогурт",
-		"icon": ""
+		"icon": "-258px -130px"
 	},{
 		"id": "banana",
 		"name": "бананы",
-		"icon": ""
+		"icon": "-388px -130px"
 	},{
 		"id": "fruit",
 		"name": "фрукты",
-		"icon": ""
+		"icon": "-518px -130px"
 	},{
 		"id": "curd",
 		"name": "творог",
-		"icon": ""
+		"icon": "-646px -130px"
 	},{
 		"id": "chicken",
 		"name": "курица",
-		"icon": ""
+		"icon": "-777px -127px"
 	},{
 		"id": "beans",
 		"name": "фасоль",
-		"icon": ""
+		"icon": "-907px -127px"
 	},{
 		"id": "rice",
 		"name": "рис",
-		"icon": ""
+		"icon": "-1037px -127px"
 	},{
 		"id": "buckwheat",
 		"name": "гречка",
-		"icon": ""
+		"icon": "0 -268px"
 	},{
 		"id": "pasta",
 		"name": "макароны",
-		"icon": ""
+		"icon": "-135px -266px"
 	},{
 		"id": "vegetables",
 		"name": "овощи",
-		"icon": ""
+		"icon": "-266px -266px"
 	},{
 		"id": "seeds",
 		"name": "семечки",
-		"icon": ""
+		"icon": "-390px -266px"
 	}, {
 		"id": "cookie",
 		"name": "печенье",
-		"icon": ""
+		"icon": "-520px -266px"
 	}]
 }
