@@ -5,5 +5,5 @@
 Это небольшое приложение позволяет отслеживать, чего из этого списка в данный момент не хватает и принять решение, насколько критично нужно зайти в магазин.
 
 <p align="center">
-  <img src="[https://example.com/image.png](https://github.com/user-attachments/assets/1d2f2908-3be9-47d2-9a50-eacf097f2a5c)" alt="app" width="570"/>
+  <img src="https://github.com/user-attachments/assets/1d2f2908-3be9-47d2-9a50-eacf097f2a5c" alt="app" width="570"/>
 </p>
