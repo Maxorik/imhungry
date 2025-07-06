@@ -11,13 +11,13 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: auto;
-    gap: 8px;
+    gap: 2px;
     padding: 6px;
 }
 .product-card {
     background: url(./sprites.png) no-repeat;
-    width: 140px;
-    height: 140px;
+    width: 130px;
+    height: 100px;
     float: left;
     font-size: 24px;
     color: #ffe6ca;
